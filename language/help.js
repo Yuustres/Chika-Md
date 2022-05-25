@@ -383,13 +383,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}keluar
   *≻* ${prefix}sendkontak
   
-  *ISLAMIC MENU*
-  *≻* ${prefix}iqra
-  *≻* ${prefix}hadist
-  *≻* ${prefix}alquran
-  *≻* ${prefix}juzamma
-  *≻* ${prefix}tafsirsurah
-  
   *VOICE CHANGER*
   *≻* ${prefix}bass
   *≻* ${prefix}blown
